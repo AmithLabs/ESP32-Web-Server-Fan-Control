@@ -82,7 +82,7 @@ The full build process is available on the **AmithLabs YouTube channel**.
 The complete ESP32 program is included in this repository:
 
 ```text
-ESP32_Web_Server_Fan_Control.ino
+Web_Server_Control.ino
 ```
 
 This code controls:
@@ -98,8 +98,7 @@ This code controls:
 ## Project Images
 
 ```text
-project-preview.jpg
-circuit-diagram.jpg
+Schematic Diagram.jpg
 ```
 
 ---
