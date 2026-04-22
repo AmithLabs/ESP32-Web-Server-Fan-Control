@@ -1,9 +1,9 @@
 # ESP32 Web Server Fan Control
 
-[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://youtu.be/YOUR_VIDEO_ID)
+[![Watch the video](https://img.youtube.com/vi/opRbuPJrx5c/0.jpg)](https://youtu.be/opRbuPJrx5c)
 
 📺 **Watch the Full Build Video on YouTube**
-https://youtu.be/YOUR_VIDEO_ID
+https://youtu.be/opRbuPJrx5c
 
 ---
 
